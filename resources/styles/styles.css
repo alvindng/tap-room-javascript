@@ -1,3 +1,16 @@
 h1 {
   color: blue;
 }
+
+
+.expensiveKeg {
+  color: red;
+}
+
+.cheapKeg {
+  color: green;
+}
+
+.selected {
+  color: #22bdf0;
+}
